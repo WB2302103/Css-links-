@@ -90,4 +90,26 @@
 .ahab:active{
     color: rgb(21, 24, 201);
 }
-
+.dr{
+    text-decoration: none;
+    margin-left: 70px;
+    color: burlywood;
+    border: 5px solid;
+    border-radius: 100px;
+    border-color: black;
+    transition: 2s;
+    margin: 20px;
+    padding: 20px;
+}
+.dr:visited{
+   color: blue;
+}
+.dr:hover{
+    color: brown;
+    background-color: rgb(30, 0, 255);
+    transition: 3s;
+}
+.dr:active{
+    color: cadetblue;
+    transition: 2s;
+}
