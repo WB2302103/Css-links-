@@ -113,3 +113,7 @@
     color: cadetblue;
     transition: 2s;
 }
+.rifayee::selection{
+    color: blueviolet;
+    background-color: brown;
+}
